@@ -1,1 +1,2 @@
-This is my index folder
+This is my index folder.
+  Now it's version2.
